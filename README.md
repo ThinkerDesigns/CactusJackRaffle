@@ -8,7 +8,7 @@ DON'T TAKE IT SERIOUSLY
 ## Required material
 
 - Files in this repo
-- Apache or HTTPD
+- Just a browser
 
 ## How to use
 
